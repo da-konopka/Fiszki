@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiszki", "Fiszki\Fiszki.csproj", "{2B225469-18C9-447D-9BE8-D66A964A83F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "fiszki_setup", "fiszki_setup\fiszki_setup.vdproj", "{90A42AB2-A902-44B0-AF88-5AA1545ECD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B225469-18C9-447D-9BE8-D66A964A83F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B225469-18C9-447D-9BE8-D66A964A83F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B225469-18C9-447D-9BE8-D66A964A83F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B225469-18C9-447D-9BE8-D66A964A83F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A42AB2-A902-44B0-AF88-5AA1545ECD42}.Debug|Any CPU.ActiveCfg = Debug
+		{90A42AB2-A902-44B0-AF88-5AA1545ECD42}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1301A2CB-CC5A-4472-AD03-CC3EE8994F80}
+	EndGlobalSection
+EndGlobal

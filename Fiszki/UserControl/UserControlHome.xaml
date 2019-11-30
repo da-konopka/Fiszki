@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Fiszki.UserControlHome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Fiszki"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Height="525" Width="630">
+    <Grid>
+        <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+            <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+                <StackPanel>
+                    <TextBlock FontSize="18" Width="350" FontFamily="Champagne &amp; Limousines" Margin="5" TextWrapping="Wrap">
+                            Program "Fiszki" pozwala rozwijać Twoje umiejętności językowe i zakres słownictwa. 
+                    </TextBlock>
+                    <TextBlock FontSize="18" Width="350" FontFamily="Champagne &amp; Limousines" Margin="5" TextWrapping="Wrap">
+                            Został stworzony jako projekt z przedmiotu Programowanie II na Politechnice Opolskiej u prof. Krzysztowa Zatwarnickiego.
+                    </TextBlock>
+                    <TextBlock FontSize="18" Width="350" FontFamily="Champagne &amp; Limousines" Margin="5" TextWrapping="Wrap">
+                            Autor: Damian Konopka
+                    </TextBlock>
+                </StackPanel>
+            </Grid>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>
