@@ -1,0 +1,151 @@
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\App.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.cache
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.lref
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.exe.config
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.exe
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.pdb
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignColors.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\MainWindow.baml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.g.resources
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.Properties.Resources.resources
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.GenerateResource.cache
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CopyComplete
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.exe
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.pdb
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\App.baml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.xml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.xml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.g.cs
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.baml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.baml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.baml
+C:\Users\Damian\Dropbox\Dokumenty\Informatyka_4sem\Programowanie\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.baml
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.exe.config
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.exe
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\Fiszki.pdb
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignColors.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.xml
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.xml
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.xml
+D:\Fiszkiv2\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll.config
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\MainWindow.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\App.g.cs
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.cache
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.lref
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\App.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\MainWindow.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.baml
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.g.resources
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.Properties.Resources.resources
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.GenerateResource.cache
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CoreCompileInputs.cache
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CopyComplete
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.exe
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.pdb
+D:\Fiszkiv2\Fiszki\Fiszki\obj\Debug\Fiszki.csprojAssemblyReference.cache
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\Fiszki.exe.config
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\Fiszki.exe
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\Fiszki.pdb
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\EntityFramework.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\MaterialDesignColors.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\EntityFramework.xml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.xml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.xml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll.config
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.csprojAssemblyReference.cache
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\MainWindow.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\App.g.cs
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.cache
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.lref
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\App.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\MainWindow.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.baml
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.g.resources
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.Properties.Resources.resources
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.GenerateResource.cache
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CoreCompileInputs.cache
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CopyComplete
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.exe
+D:\Damian Konopka - Fiszki\Fiszki\Fiszki\obj\Debug\Fiszki.pdb
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\Fiszki.exe.config
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\Fiszki.exe
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\Fiszki.pdb
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\EntityFramework.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\MaterialDesignColors.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.EF6.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.Linq.dll
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\EntityFramework.xml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.xml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\bin\Debug\System.Data.SQLite.dll.config
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.csprojAssemblyReference.cache
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\MainWindow.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\App.g.cs
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.cache
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki_MarkupCompile.lref
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\App.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\MainWindow.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlAddWord.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlHome.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlListWords.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\UserControl\UserControlStudy.baml
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.g.resources
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.Properties.Resources.resources
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.GenerateResource.cache
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CoreCompileInputs.cache
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CopyComplete
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.exe
+D:\OneDrive - The Opole University of Technology\Studia\Informatyka_4sem\Programowanie\WPF\Fiszki\Fiszki\obj\Debug\Fiszki.pdb
